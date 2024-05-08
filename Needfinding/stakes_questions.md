@@ -2,17 +2,15 @@ Queste sono alcune domande generate da ChatGPT
 
 **Studenti:**
 
-1. Ti capita spesso di dover scambiare denaro, appunti o libri all'interno dell'università?
-2. Quali sono le principali difficoltà che incontri quando cerchi di fare uno scambio all'interno dell'università?
-3. Cosa vorresti vedere in un'interfaccia grafica che faciliti lo scambio di denaro, appunti e libri tra studenti?
-4. Quanto tempo saresti disposto a dedicare all'utilizzo di un'applicazione per lo scambio di risorse all'interno dell'università?
-
+1. Ti e' mai capitato di scambiare risorse (appunti, soldi, libri,...) con i tuoi compagni di corso? (Se No, vai a 3)
+2. Hai mai avuto problemi a scambiare tali risorse? Quali?
+3. Mentre con i professori, c'e' mai stata l'esigenza di chiedere materiale didattico?
+4. Che mezzo utilizzate ?
 
 **Professori:**
 
 1. Hai mai avuto richieste da parte degli studenti per lo scambio di risorse come libri o appunti?
 2. Quali sono le tue principali preoccupazioni riguardo allo scambio di risorse tra studenti all'interno dell'università?
-3. Credi che un'interfaccia grafica per facilitare lo scambio di risorse potrebbe essere utile per la comunità accademica?
 4. Che tipo di funzionalità ti piacerebbe vedere in un'applicazione per lo scambio di risorse all'interno dell'università?
 
 
