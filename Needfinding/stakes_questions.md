@@ -2,10 +2,14 @@ Queste sono alcune domande generate da ChatGPT
 
 **Studenti:**
 
-1. Ti e' mai capitato di scambiare risorse (appunti, soldi, libri,...) con i tuoi compagni di corso? (Se No, vai a 3)
-2. Hai mai avuto problemi a scambiare tali risorse? Quali?
-3. Mentre con i professori, c'e' mai stata l'esigenza di chiedere materiale didattico?
-4. Che mezzo utilizzate ?
+1. Ti e' mai capitato di scambiare risorse (appunti, soldi, materiale didattico,...) con i tuoi compagni di corso? (A:No, Q: Perche'?)
+2. Dove ricerchi le risorse?
+3. Ti e' mai capitato di condividere risorse, con colleghi del tuo corso?
+4. Hai mai utilizzato applicazioni per la condivisione? Hai mai avuto problemi? Quali?
+5. Che tipo di funzionalità ti piacerebbe vedere in un'applicazione per la condivisione di risorse tra studenti universitari? 
+6. Quali sono le maggiori frustazioni nel processo di condivisione di risorse con altri studenti?
+7. Mentre con i professori, c'e' mai stata l'esigenza di chiedere materiale didattico?
+
 
 **Professori:**
 
