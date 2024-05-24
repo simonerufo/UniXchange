@@ -2,10 +2,10 @@
 
 The tasks are the following:
 
-- **Money exchange between students** 
-- **Upload notes to your profile**
-- **Feedback system for the evalutation of notes**
-- **Purchase of notes from other users**
+1. **Money exchange between students** 
+2. **Upload notes to your profile**
+3. **Feedback system for the evalutation of notes**
+4. **Purchase of notes from other users**
 
 
 
