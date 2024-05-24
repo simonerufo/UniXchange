@@ -6,4 +6,4 @@
 4. Have you ever used application for sharing resources? Have you ever had problems?
 5. What types of functionalities would you like to see in an application for sharing resources among students?
 6. What are the major frustration in the sharing process?
-7. While with the professor, there was never the need to ask for teaching material?
+7. While with the professors, there was ever the need to ask for teaching material?
