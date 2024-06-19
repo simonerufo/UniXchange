@@ -6,8 +6,9 @@ The tasks are the following:
 2. **Upload notes to your profile**
 
 ---DEPRECATED after review with professor---
-4. **Feedback system for the evalutation of notes** 
-5. **Purchase of notes from other users**
+
+3. **Feedback system for the evalutation of notes** 
+4. **Purchase of notes from other users**
 
 
 
